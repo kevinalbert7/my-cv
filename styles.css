@@ -5,53 +5,39 @@
     color: white;
 }
 
-div.name
+.container
+{
+    margin: 16px auto
+}
+.name1
 {
     display: flex;
     height: 100%;
     width: 100%;
     justify-content:center;
     font-size: 30px;
+
+.menu1
+{
+
 }
 
-div.presentation
+.name2
 {
-    display: flex;
-    height: 100%;
-    width: 100%;
-    justify-content:center;
-    background-color: #0475ba;
-    color: white;
+
 }
 
-div.experiences
+.photo
 {
-    display: flex;
-    height: 100%;
-    width: 100%;
-    justify-content:center;
+
 }
 
-div.formations
+.presentation
 {
-    display: flex;
-    height: 100%;
-    width: 100%;
-    justify-content:center;
-    background-color: #0475ba;
-    color: white;
+
 }
 
-div.passions
+.experiences
 {
-    display: flex;
-    height: 100%;
-    width: 100%;
-    justify-content:center;
-}
 
-#liens
-{
-    background-color: #0475ba;
-    color: white;
 }
